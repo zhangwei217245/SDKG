@@ -1,0 +1,6 @@
+[submodule "libdb"]
+	path = libdb
+	url = git@github.com:berkeleydb/libdb.git
+[submodule "librdf"]
+	path = librdf
+	url = git@github.com:dajobe/librdf.git
